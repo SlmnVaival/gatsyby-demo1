@@ -12,7 +12,6 @@
     url('/static/fonts/Archia/archia-regular-webfont.ttf') format('truetype');
     font-weight: normal;
 }
-
 @font-face {
     font-family: 'Circular Std';
     src: local('Circular Std'),
